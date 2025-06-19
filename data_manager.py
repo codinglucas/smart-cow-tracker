@@ -45,4 +45,4 @@ def log_weight(cow_id: str, weight_kg: float):
 
 # Example usage:
 if __name__ == "__main__":
-    log_weight("001", 370)
+    log_weight("002", 555)
